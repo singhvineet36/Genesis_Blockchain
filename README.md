@@ -21,6 +21,8 @@ Join me in transforming the crowdfunding landscape and embracing the potential o
 - MetaMask pairing for seamless wallet integration
 - Utilization of blockchain technology and Solidity programming language
 - User-friendly interface enabling users to create, view, and donate to crowdfunding campaigns
+- AI based campaigns boosters for higher visibility
+- Localized platform tailored for Indian users and Customizable campaign template
 
 
 ## 🧑‍💻 Tech Stack Used
