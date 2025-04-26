@@ -34,26 +34,11 @@ Join me in transforming the crowdfunding landscape and embracing the potential o
 
 ## 📸 Screenshots
 
-- CrowFunding Main Interface
+![Genesis Project](./screenshots/0.gif)
+<center><figcaption>Genesis Project</figcaption></center>
 
-![CF Interface](https://github.com/sai-vamsi-m/project-web3-crowdfunding/assets/117112672/396d5b30-ecf3-4528-b773-28347f9af620)
-
-- CrowFunding Campaign Creation
-
-![CF Campaign Creation](https://github.com/sai-vamsi-m/project-web3-crowdfunding/assets/117112672/c44839ef-1d07-4a00-a346-589f3149537c)
-
-- CrowFunding My Campaigns
-
-![CF My Campaigns](https://github.com/sai-vamsi-m/project-web3-crowdfunding/assets/117112672/973aadec-5aba-4651-a635-9fb802952995)
-
-- CrowFunding Funding Interface
-
-![CF Funding Interface](https://github.com/sai-vamsi-m/project-web3-crowdfunding/assets/117112672/afb3f323-dca3-43dd-906b-81cf384e8f58)
-
-- CrowFunding Meta Mask Notification 
-
-![CF Meta Mask Notification](https://github.com/sai-vamsi-m/project-web3-crowdfunding/assets/117112672/87f79727-a8fc-46bf-865a-c9432a3484df)
-
+![Genesis Project](./screenshots/1.gif)
+<center><figcaption>Back Project</figcaption></center>
 
 ## 🧐 How to use
 
