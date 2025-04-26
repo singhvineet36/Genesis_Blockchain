@@ -32,14 +32,6 @@ Join me in transforming the crowdfunding landscape and embracing the potential o
 **Framework:** ThirdWeb for smart contracts 
 
 
-## 📸 Screenshots
-
-![Genesis Project](./screenshots/0.gif)
-<center><figcaption>Genesis Project</figcaption></center>
-
-![Genesis Project](./screenshots/1.gif)
-<center><figcaption>Back Project</figcaption></center>
-
 ## 🧐 How to use
 
 To make the most of our Web3 Crowd Funding platform, follow these simple steps:
